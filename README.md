@@ -1,15 +1,15 @@
 
 ## Hi there, I'm Rich 👋
 
-I'm a US-based freelance developer with 6+ years of experience creating and managing eCommerce websites on Shopify and Shopify Plus, including everything from small theme tweaks and customizations to full, headless, custom-built sites from scratch.
+I'm a US-based freelance developer with 6+ years of experience creating and managing eCommerce websites on Shopify and Shopify Plus [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg' alt='shopify' height='15'>](https://richcherry.io/)  , including everything from small theme tweaks and customizations to full, headless, custom-built sites from scratch.
 
 #### Need help with a project? Let's chat!
 
 - 🌱 I’m currently learning Node.js, GraphhQL
 - 💬 Ask me about Headless eCommerce, Shopify Development
-- 📫 Check out my personal site and reach me at: [richcherry.io](https://richcherry.io "Freelance Shopify Developer")
+- 📫 Check out my personal site and reach me at: [richcherry.io](https://richcherry.io "Freelance Shopify Developer")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='15'>](https://richcherry.io/)
 - 📲 You can also check me out on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/rich-cherry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rich-cherry//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://richcherry.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='20'>](https://www.codewars.com/users/RichNC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='20'>](https://dribbble.com/richcherryio)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/rich-cherry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rich-cherry//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='15'>](https://www.codewars.com/users/RichNC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='15'>](https://dribbble.com/richcherryio)  
 
 
 
