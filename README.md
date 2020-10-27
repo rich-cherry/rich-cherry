@@ -1,4 +1,4 @@
-### Hi there, I'm Rich 👋
+## Hi there, I'm Rich 👋
 
 I'm a US-based freelance developer with 6+ years of experience creating and managing eCommerce websites on Shopify and Shopify Plus, including everything from small theme tweaks and customizations to full, headless, custom-built sites from scratch.
 
