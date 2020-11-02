@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Rich 👋
 
-I'm a US-based freelance developer with 6+ years of experience creating and managing eCommerce websites on Shopify and Shopify Plus [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg' alt='shopify' height='15'>](https://richcherry.io/)  , including everything from small theme tweaks and customizations to full, headless, custom-built sites from scratch.
+I'm a US-based freelance developer with 5+ years of experience creating and managing eCommerce websites on Shopify and Shopify Plus [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg' alt='shopify' height='15'>](https://richcherry.io/)  , including everything from small theme tweaks and customizations to full, headless, custom-built sites from scratch.
 
 #### Need help with a project? Let's chat!
 
