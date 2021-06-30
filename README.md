@@ -5,8 +5,6 @@ I'm a US-based freelance developer with 5+ years of experience creating and mana
 
 #### Need help with a project? Let's chat!
 
-- **Skill Set:** CSS3 | HTML5 | Gatsby.js | Git | GraphQL | Javascript | Liquid | React | Ruby | Ruby on Rails | Sass | SQL
-- 🌱 I’m currently learning Node.js, GraphhQL
 - 💬 Ask me about Headless eCommerce, Shopify Development
 - 📫 Check out my personal site and reach me at: [richcherry.io](https://richcherry.io "Freelance Shopify Developer")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='15'>](https://richcherry.io/)
 - 📲 You can also check me out on:
