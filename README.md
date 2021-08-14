@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Rich 👋
 
-Freelance developer with 5+ years of experience creating and managing eCommerce websites on Shopify / Shopify Plus [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg' alt='shopify' height='15'>](https://richcherry.io/).
+Freelance Shopify Developer [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shopify.svg' alt='shopify' height='15'>](https://richcherry.io/).
 
 
 - 📫 Personal site / Reach me at: [richcherry.io](https://richcherry.io "Freelance Shopify Developer")  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='15'>](https://richcherry.io/)
